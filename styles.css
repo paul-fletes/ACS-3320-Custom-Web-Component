@@ -1,0 +1,15 @@
+body {
+  background-color: darkseagreen;
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: #173f14;
+  font-size: 3em;
+  text-shadow: 2px 2px 2px black;
+}
+
+h3 {
+  text-align: center;
+}
